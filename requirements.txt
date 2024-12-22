@@ -2,7 +2,6 @@ beautifulsoup4
 streamlit
 streamlit_folium
 folium
-cv2
 xgboost
 scikit-learn
 opencv-python 
