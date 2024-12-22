@@ -1,7 +1,7 @@
 beautifulsoup4
-streamlit==1.29.0
+streamlit
 streamlit_folium
 folium
 opencv-python 
 xgboost==1.6.2 
-scikit-learn==0.24.2
+scikit-learn
