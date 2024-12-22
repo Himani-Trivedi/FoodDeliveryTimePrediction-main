@@ -1,5 +1,5 @@
 beautifulsoup4
-streamlit
+streamlit==1.29.0
 streamlit_folium
 folium
 opencv-python 
