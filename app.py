@@ -8,7 +8,7 @@ from weather import *
 from distance import *
 from givedata import *
 import xgboost as xgb
-import cv2
+#import cv2
 
 def get_pos(lat, lng):
     return lat, lng
